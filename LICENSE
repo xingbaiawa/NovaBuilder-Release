@@ -1,0 +1,134 @@
+                    NovaBuilder BINARY LICENSE
+
+            Based on the GNU Affero General Public License v3
+               Modified for binary-only distribution
+
+ Copyright (C) 2026 xingbaiawa
+
+ This license applies to the precompiled binary files of NovaBuilder
+ distributed in this repository.
+
+ Everyone is permitted to copy and distribute verbatim copies of this
+ license document, but changing it is not allowed.
+
+                            Preamble
+
+  This license is based on the GNU Affero General Public License v3,
+but has been modified to address binary-only distribution of NovaBuilder.
+
+  Unlike the standard AGPL v3, the source code is NOT provided under
+this distribution. This license defines the boundaries between permitted
+service-based commercial use and prohibited resale of the binary files.
+
+  When we speak of free software in this context, we are referring to
+freedom of use, not price. You are free to use the software and to
+charge for services performed with it, but you are not free to sell the
+software itself.
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "The Program" refers to the precompiled binary files of NovaBuilder,
+as distributed in this repository.
+
+  "You" means each licensee or user of the Program.
+
+  "Commercial Use of the Program" means selling, reselling, renting,
+leasing, sublicensing, or otherwise transferring the executable binary
+files of the Program to any third party for monetary compensation.
+
+  "Service-Based Commercial Use" means using the Program to provide
+services, create work, or build products for others, and charging a fee
+for those services or products. This does NOT constitute Commercial Use
+of the Program itself.
+
+  1. Permitted Actions Without Authorization.
+
+  You are permitted to do the following without obtaining any additional
+permission from the copyright holder:
+
+  a) Download, install, and run the Program free of charge.
+
+  b) Connect to the authentication server using a valid API Token.
+
+  c) Use the Program to provide services or create work/products for
+     others, and charge a fee for those services or products. This is
+     Service-Based Commercial Use as defined in Section 0.
+
+  2. Prohibited Actions.
+
+  You are NOT permitted to do any of the following:
+
+  a) Reverse engineer, decompile, or disassemble the Program, except to
+     the extent expressly permitted by applicable law notwithstanding
+     this limitation.
+
+  b) Redistribute the Program, in whole or in part, without explicit
+     permission from the copyright holder.
+
+  c) Sell, resell, rent, lease, sublicense, or otherwise transfer the
+     executable binary files of the Program to any third party, whether
+     standalone or bundled as a primary asset. This is Commercial Use
+     of the Program as defined in Section 0.
+
+  3. Clarification of Service Charges.
+
+  Notwithstanding Section 2(c), charging fees for services performed
+with the Program, products created using the Program, or technical
+support related to the Program is expressly permitted. Such fees are
+considered compensation for your labor and expertise, not for the
+Program itself.
+
+  4. Granting of Additional Permissions.
+
+  Any use beyond the scope of this License, including but not limited to
+redistributing the Program or selling the Program itself, may be granted
+by the copyright holder at their sole discretion.
+
+  Permission may be granted via:
+  - Formal written agreement
+  - Email confirmation
+  - QQ, WeChat, or other instant messaging records from an identifiable
+    account of the author
+
+  If you wish to obtain such permission, please contact the copyright
+holder using the contact information provided below.
+
+  5. No Source Code.
+
+  The source code of the Program is NOT provided under this distribution.
+This deviates from the standard GNU Affero General Public License v3.
+All rights to the source code remain with the original author(s).
+
+  6. Disclaimer of Warranty.
+
+  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. THE PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.
+
+  7. Limitation of Liability.
+
+  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL THE COPYRIGHT HOLDER BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM, EVEN IF THE COPYRIGHT HOLDER HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+  8. Acceptance.
+
+  By downloading, installing, or using the Program, you indicate your
+acceptance of this License and all its terms and conditions.
+
+                    HOW TO CONTACT
+
+  To request permission for any use not automatically granted by this
+License, please contact:
+
+  Email: 3939721331@qq.com
+  QQ: 3939721331
+
+                     END OF TERMS AND CONDITIONS
